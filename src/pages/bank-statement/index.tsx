@@ -11,6 +11,9 @@ import { LinkText, HeadLinks } from '../../components';
 
 import logo from '../../../public/imgs/bugbank.png';
 import img from '../../../public/imgs/transfer_money.svg';
+//<img src="/imgs/bugbank.png" alt="BugBank logo" />;
+//<img src="/imgs/transfer_money.png" alt="Transferência" />;
+
 
 interface UserProps {
   name: string;
